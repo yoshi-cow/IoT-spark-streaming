@@ -22,7 +22,7 @@
   * kafka_to_cassandra.py
 * タンブリングウィンドウ平均値算出後、出力
   * culc_Tumbling_Windows_avg.py
-* スライディングウィンドウ平均値算出
+* スライディングウィンドウ平均値算出後、出力
   * culc_Sliding_Windows_avg.py.py
 * 出力先を複数フォルダに仕分け
   * kafka_classify_data_to_each_directory.py
