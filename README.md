@@ -26,3 +26,9 @@
   * culc_Sliding_Windows_avg.py.py
 * 出力先を複数フォルダに仕分け
   * kafka_classify_data_to_each_directory.py
+* PCAによる特徴量数決定.ipynb
+  * sparkのPCAを用いて特徴量数を決定
+* 分類モデル(決定木・ロジスティクス回帰)の適用.ipynb
+  * IoTデータに対して、sparkで分類モデルを作成
+* 回帰モデル.ipynb
+  * IoTデータに対して、sparkで回帰モデルを作成
