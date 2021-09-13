@@ -12,7 +12,7 @@
 | spark | 3.1.1 |
 
 ## 各ソースコード内容
-* kafka投入tdagentの設定ファイル
+* kafka投入fluentdの設定ファイル
   * td-agent.conf
 * kafka出力結果json出力コード
   * kafka_to_json.py
