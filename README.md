@@ -1,8 +1,10 @@
 # sparkによるIoTデータ処理の学習
 
 ## 以下仕様でIoTデータの収集からDBへの保存、機械学習のモデリングまでをコード化し、spark ( pyspark) による分散処理を学ぶ
-![spark_machine_Learning](https://user-images.githubusercontent.com/61402011/132344753-9a526de5-c2f6-4fac-a23b-1be21e99ec0d.png)
 * 学習書籍：『アプリケーションエンジニアのための Apache spark入門』（秀和システム）
+<br><br>
+![spark_machine_Learning](https://user-images.githubusercontent.com/61402011/132344753-9a526de5-c2f6-4fac-a23b-1be21e99ec0d.png)
+
 
 ## 各バージョン
 | アプリ(言語) | バージョン |
